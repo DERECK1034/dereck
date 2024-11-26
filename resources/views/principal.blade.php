@@ -13,7 +13,7 @@
     <div class="collapse navbar-collapse" id="navbarColor01">
       <ul class="navbar-nav me-auto">
         <li class="nav-item">
-          <a class="nav-link active" href="{{route('inicio')}}">Inicio
+          <a class="nav-link active" href="{{route('inicio')}}">Inicio34
             <span class="visually-hidden">(current)</span>
           </a>
         </li>
